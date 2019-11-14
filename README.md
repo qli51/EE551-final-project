@@ -1,2 +1,2 @@
 # py-project
-prepare to write a tertis
+Before open py files, you can see the step of my project in introduction.
